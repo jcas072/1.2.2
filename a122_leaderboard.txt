@@ -1,0 +1,5 @@
+JAZ,25
+jaz,20
+jaz,15
+jaz,11
+Pat,10
